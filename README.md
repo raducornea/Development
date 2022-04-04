@@ -12,7 +12,7 @@ This is a place for Development Tools, Apps & Links I found interesting to keep 
 
 [🤖 Bots 🤖](https://github.com/raducornea/Development/wiki/Bots)
 
-[🖥️ Desktop Applicationsn 🖥️](https://github.com/raducornea/Development/wiki/Desktop-Applications)
+[🖥️ Desktop Applicationns 🖥️](https://github.com/raducornea/Development/wiki/Desktop-Applications)
 
 [🎨 Drawing 🎨](https://github.com/raducornea/Development/wiki/Drawing)
 
